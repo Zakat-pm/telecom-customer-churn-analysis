@@ -1,0 +1,13 @@
+tenure_band,Contract,customers,churned,churn_rate
+0–12,Month-to-month,1994,1024,0.5135
+13–24,Month-to-month,737,278,0.3772
+25–48,Month-to-month,802,264,0.3292
+49–72,Month-to-month,342,89,0.2602
+49–72,One year,634,82,0.1293
+25–48,One year,518,55,0.1062
+0–12,One year,124,13,0.1048
+13–24,One year,197,16,0.0812
+49–72,Two year,1263,42,0.0333
+25–48,Two year,274,6,0.0219
+0–12,Two year,68,0,0.0
+13–24,Two year,90,0,0.0

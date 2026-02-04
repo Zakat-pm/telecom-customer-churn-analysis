@@ -8,7 +8,7 @@ import pandas as pd
 
 
 DEFAULT_DB = Path("../data/processed/telco.db")
-DEFAULT_SQL_DIR = Path("../sql/02_queries")
+DEFAULT_SQL_DIR = Path("../sql/queries")
 DEFAULT_OUT_DIR = Path("../data/processed")
 
 

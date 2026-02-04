@@ -25,7 +25,7 @@ def run_query(db_path: Path, sql_path: Path) -> pd.DataFrame:
 
 def main():
     parser = argparse.ArgumentParser(description="Run a SQL query against SQLite and save results to CSV.")
-    parser.add_argument("sql", type=str, help="Path to .sql file, e.g. sql/02_queries/04_churn_by_payment.sql")
+    parser.add_argument("sql", type=str, help="Path to .sql file, e.g. sql/queries/04_churn_by_payment.sql")
     parser.add_argument("out", type=str, help="Path to output .csv, e.g. data/processed/04_churn_by_payment.csv")
     parser.add_argument(
         "--db",
